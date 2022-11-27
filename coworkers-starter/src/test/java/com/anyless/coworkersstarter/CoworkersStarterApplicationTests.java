@@ -1,13 +1,13 @@
-package com.anyless.coworkers;
+package com.anyless.coworkersstarter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CoworkersApplicationTests {
+class CoworkersStarterApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }

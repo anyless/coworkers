@@ -1,1 +1,6 @@
 rootProject.name = 'coworkers'
+
+include 'coworkers-core'
+include 'coworkers-room'
+include 'coworkers-user'
+include 'coworkers-starter'
